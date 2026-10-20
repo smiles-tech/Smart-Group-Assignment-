@@ -1,0 +1,8 @@
+{
+  "name": "Smart Classroom Grouping",
+  "description": "Automated student group assignment via QR code scanning with real-time Google Sheets synchronization and tutor course dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
